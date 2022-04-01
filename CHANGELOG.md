@@ -7,13 +7,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.2.0] - 2022-04-01
+
 ### Added
 
-- Better description on how to use this.
+- Better description on how to use this localization tool.
 
 ### Changed
 
-- Changed name of repo, XLSM file and tabs.
+- Changed name of repo, XLSM file and columns.
 
 ## [1.1.0] - 2019-11-01
 
