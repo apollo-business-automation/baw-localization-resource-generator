@@ -4,7 +4,7 @@ This generator is here to help you Working with Localization Resources in BAW.
 
 ## Description
 
-This XLSM file with macros enables you to maintain and generate localization resource bundle for BAW in multiple languages.
+This XLSM file with macros enables you to maintain and generate localization resource bundle for BAW (BPMN) in multiple languages.
 
 ## Usage
 
