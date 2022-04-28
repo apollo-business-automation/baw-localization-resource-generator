@@ -1,6 +1,6 @@
 # BAW Localization Resource generator
 
-This generator is here to help you Working with Localization Resources in BAW.
+This generator is here to help you working with Localization Resources in BAW.
 
 ## Description
 
